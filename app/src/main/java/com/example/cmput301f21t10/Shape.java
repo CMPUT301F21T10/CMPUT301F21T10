@@ -4,6 +4,6 @@ public abstract class Shape {
     protected Integer x;
     protected Integer y;
 
-    String color = "Orange";
+    String color = "Yellow (Sood)";
     String properName = "Sood";
 }
